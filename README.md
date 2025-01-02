@@ -8,7 +8,7 @@
   - and ♦German(not so much but Ich heisse Fevzi Emir)♦
 - 👀 I’m interested in coding/programming, game designing (hope so) music, cinema etc.
 - 
-- 🌱 I’m currently learning Frontend, NodeJs and Backend.
+- 🌱 I’m currently learning Frontend, NodeJs, JavaScript and Backend.
 - 
 - 💞️ I’m looking to collaborate on...
 - 
